@@ -1,0 +1,3 @@
+/Users/minseokkim/CLionProjects/BOJ/5582/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/minseokkim/CLionProjects/BOJ/5582/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/minseokkim/CLionProjects/BOJ/5582/cmake-build-debug/CMakeFiles/5582.dir
